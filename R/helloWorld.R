@@ -4,5 +4,5 @@ function(
 	) {
 
 	return(rep("Hello World", n))
-} ## END helloWorld Function
+} ## END of the World Function
 
